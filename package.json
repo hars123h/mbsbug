@@ -2,7 +2,9 @@
   "name": "design_one",
   "version": "0.1.0",
   "engines": {
-    "npm": "8.x"
+    "npm": "8.x",
+    "node": "16.15.1"
+
   },
   "private": true,
   "dependencies": {
